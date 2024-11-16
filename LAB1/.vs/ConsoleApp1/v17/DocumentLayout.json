@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!! GitHub\\Projekt Programowanie\\GR-Manager\\LAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD652CCC-0D64-4394-A8A9-7962758228CD}|ConsoleApp1.csproj|d:\\!! github\\projekt programowanie\\gr-manager\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD652CCC-0D64-4394-A8A9-7962758228CD}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!! GitHub\\Projekt Programowanie\\GR-Manager\\LAB1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\!! GitHub\\Projekt Programowanie\\GR-Manager\\LAB1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:19:13.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
